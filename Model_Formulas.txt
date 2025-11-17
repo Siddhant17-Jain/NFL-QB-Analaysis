@@ -1,0 +1,9 @@
+--- QBR Model Formula ---
+QBR = 19.9305 + (0.1557 * DLINE_WinRate) + (0.3097 * OLINE_WinRate) + (-2.4875 * DEF_EPA_Play) + (0.2919 * Receiving_Value) + (61.3295 * Rushing_Value)
+R-squared: 0.2740
+Adj. R-squared: 0.2469
+
+--- RTG Model Formula ---
+RTG = 56.1008 + (0.0650 * DLINE_WinRate) + (0.2777 * OLINE_WinRate) + (-10.2452 * DEF_EPA_Play) + (0.3663 * Receiving_Value) + (33.3639 * Rushing_Value)
+R-squared: 0.2155
+Adj. R-squared: 0.1862
